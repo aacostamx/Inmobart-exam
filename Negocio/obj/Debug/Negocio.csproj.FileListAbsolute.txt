@@ -1,0 +1,7 @@
+C:\Users\Jaime Lagunas\Documents\Visual Studio 2008\Projects\AntonioAcosta\Negocio\bin\Debug\Negocio.dll
+C:\Users\Jaime Lagunas\Documents\Visual Studio 2008\Projects\AntonioAcosta\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Jaime Lagunas\Documents\Visual Studio 2008\Projects\AntonioAcosta\Negocio\bin\Debug\Entidades.dll
+C:\Users\Jaime Lagunas\Documents\Visual Studio 2008\Projects\AntonioAcosta\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Jaime Lagunas\Documents\Visual Studio 2008\Projects\AntonioAcosta\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jaime Lagunas\Documents\Visual Studio 2008\Projects\AntonioAcosta\Negocio\obj\Debug\Negocio.dll
+C:\Users\Jaime Lagunas\Documents\Visual Studio 2008\Projects\AntonioAcosta\Negocio\obj\Debug\Negocio.pdb
